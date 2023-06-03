@@ -44,9 +44,11 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+![image](https://github.com/syedmokthiyar/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118787294/9146bb6d-5bac-49a2-a6a1-767cca2d48e5)
 
-### Name:
-### Register Number:
+
+### Name:S.M.SYED MOKTHIYAR
+### Register Number:212222230156
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
